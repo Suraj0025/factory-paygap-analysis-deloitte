@@ -17,7 +17,8 @@ This repository showcases two hands-on data analytics projects completed as part
 - Identified patterns in failures to support **predictive maintenance strategies**.
 - Built an **interactive Tableau dashboard** to visualize machine failure hotspots.
 
-🔗 **[View Dashboard](https://public.tableau.com/views/your-factory-dashboard-link)**  
+🔗 **[View Dashboard](https://public.tableau.com/views/y![dashboard_image](https://github.com/user-attachments/assets/410ce9b3-e736-4680-a0bf-7e3fd7fad849)
+our-factory-dashboard-link)**  
 📸 ![Factory Dashboard](factory-machine-failure/dashboard/dashboard_image.png)
 
 📁 [View Full Project Folder](./factory-machine-failure)
@@ -34,7 +35,8 @@ This repository showcases two hands-on data analytics projects completed as part
 - Delivered insights to help guide **equitable compensation policies**.
 
 🔗 **[View Dashboard](https://public.tableau.com/views/your-paygap-dashboard-link)**  
-📸 ![Pay Gap Dashboard](gender-pay-gap-analysis/dashboard/dashboard_image.png)
+📸 ![Pay Gap Dashboard](gender-pay-gap-analysis/dashboard/dashboard_image.![dashboard_image](https://github.com/user-attachments/assets/7ea60361-9fa9-456c-b3b8-c7938873fa5d)
+png)
 
 📁 [View Full Project Folder](./gender-pay-gap-analysis)
 
